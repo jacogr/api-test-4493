@@ -1,0 +1,9 @@
+{
+  "name": "api-test-4493",
+  "version": "1.0.0",
+  "main": "index.mjs",
+  "license": "MIT",
+  "dependencies": {
+    "@polkadot/api": "^7.5.1"
+  }
+}
